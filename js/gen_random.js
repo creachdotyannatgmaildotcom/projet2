@@ -4,8 +4,8 @@ function getRandomInt(max) {
 
 function generateRandom() {
     let max = document.getElementById('max').value;
-
-    alert(getRandomInt(max));
+jhjhkjhk
+kjlkjkl
 }
 
 let button = document.querySelector('button');
